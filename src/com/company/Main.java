@@ -12,7 +12,7 @@ public class Main {
         ArrayList<String> numbersB = new ArrayList<String>();
         ArrayList<String> numbersC = new ArrayList<String>();
 
-        System.out.println("ведите 5 слов");
+        System.out.println("Введите цифры");
         for (int i = 0; i < 5; i++) {
             numbersA.add(scanner.nextLine());
         }
@@ -23,7 +23,7 @@ public class Main {
 
         }
 
-        System.out.println("Введите цифры");
+
 
 
         System.out.println(iterator_1.next());
